@@ -1,6 +1,6 @@
 # ninja
 
-A new Flutter project.
+A new Flutter project that shows some ninja cards (uncompleted)
 
 ## Getting Started
 
